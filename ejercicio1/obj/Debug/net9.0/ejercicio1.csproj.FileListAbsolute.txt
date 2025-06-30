@@ -1,0 +1,15 @@
+F:\Material de Estudio\Taller de lenguajes 1\Tp segundo parcial\tl1-tp10-2025-DaniFDS1\ejercicio1\bin\Debug\net9.0\ejercicio1.exe
+F:\Material de Estudio\Taller de lenguajes 1\Tp segundo parcial\tl1-tp10-2025-DaniFDS1\ejercicio1\bin\Debug\net9.0\ejercicio1.deps.json
+F:\Material de Estudio\Taller de lenguajes 1\Tp segundo parcial\tl1-tp10-2025-DaniFDS1\ejercicio1\bin\Debug\net9.0\ejercicio1.runtimeconfig.json
+F:\Material de Estudio\Taller de lenguajes 1\Tp segundo parcial\tl1-tp10-2025-DaniFDS1\ejercicio1\bin\Debug\net9.0\ejercicio1.dll
+F:\Material de Estudio\Taller de lenguajes 1\Tp segundo parcial\tl1-tp10-2025-DaniFDS1\ejercicio1\bin\Debug\net9.0\ejercicio1.pdb
+F:\Material de Estudio\Taller de lenguajes 1\Tp segundo parcial\tl1-tp10-2025-DaniFDS1\ejercicio1\obj\Debug\net9.0\ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Material de Estudio\Taller de lenguajes 1\Tp segundo parcial\tl1-tp10-2025-DaniFDS1\ejercicio1\obj\Debug\net9.0\ejercicio1.AssemblyInfoInputs.cache
+F:\Material de Estudio\Taller de lenguajes 1\Tp segundo parcial\tl1-tp10-2025-DaniFDS1\ejercicio1\obj\Debug\net9.0\ejercicio1.AssemblyInfo.cs
+F:\Material de Estudio\Taller de lenguajes 1\Tp segundo parcial\tl1-tp10-2025-DaniFDS1\ejercicio1\obj\Debug\net9.0\ejercicio1.csproj.CoreCompileInputs.cache
+F:\Material de Estudio\Taller de lenguajes 1\Tp segundo parcial\tl1-tp10-2025-DaniFDS1\ejercicio1\obj\Debug\net9.0\ejercicio1.sourcelink.json
+F:\Material de Estudio\Taller de lenguajes 1\Tp segundo parcial\tl1-tp10-2025-DaniFDS1\ejercicio1\obj\Debug\net9.0\ejercicio1.dll
+F:\Material de Estudio\Taller de lenguajes 1\Tp segundo parcial\tl1-tp10-2025-DaniFDS1\ejercicio1\obj\Debug\net9.0\refint\ejercicio1.dll
+F:\Material de Estudio\Taller de lenguajes 1\Tp segundo parcial\tl1-tp10-2025-DaniFDS1\ejercicio1\obj\Debug\net9.0\ejercicio1.pdb
+F:\Material de Estudio\Taller de lenguajes 1\Tp segundo parcial\tl1-tp10-2025-DaniFDS1\ejercicio1\obj\Debug\net9.0\ejercicio1.genruntimeconfig.cache
+F:\Material de Estudio\Taller de lenguajes 1\Tp segundo parcial\tl1-tp10-2025-DaniFDS1\ejercicio1\obj\Debug\net9.0\ref\ejercicio1.dll

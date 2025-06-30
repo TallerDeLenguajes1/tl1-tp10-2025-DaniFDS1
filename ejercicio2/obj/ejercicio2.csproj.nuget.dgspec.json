@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Material de Estudio\\Taller de lenguajes 1\\Tp segundo parcial\\tl1-tp10-2025-DaniFDS1\\ejercicio2\\ejercicio2.csproj": {}
+  },
+  "projects": {
+    "F:\\Material de Estudio\\Taller de lenguajes 1\\Tp segundo parcial\\tl1-tp10-2025-DaniFDS1\\ejercicio2\\ejercicio2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Material de Estudio\\Taller de lenguajes 1\\Tp segundo parcial\\tl1-tp10-2025-DaniFDS1\\ejercicio2\\ejercicio2.csproj",
+        "projectName": "ejercicio2",
+        "projectPath": "F:\\Material de Estudio\\Taller de lenguajes 1\\Tp segundo parcial\\tl1-tp10-2025-DaniFDS1\\ejercicio2\\ejercicio2.csproj",
+        "packagesPath": "C:\\Users\\danif\\.nuget\\packages\\",
+        "outputPath": "F:\\Material de Estudio\\Taller de lenguajes 1\\Tp segundo parcial\\tl1-tp10-2025-DaniFDS1\\ejercicio2\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\danif\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
